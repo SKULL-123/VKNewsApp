@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VKNewsApp</string>
+    <string name="login_button_text">Авторизоваться в ВК</string>
+</resources>
